@@ -1,0 +1,23 @@
+{
+  "name": "gors",
+  "version": "0.1.0",
+  "description": "Google teach me some Rust",
+  "scripts": {
+    "cargo": "cargo run -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmg0/gors.git"
+  },
+  "keywords": [
+    "rust",
+    "wasm",
+    "javascript"
+  ],
+  "author": "tmg0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmg0/gors/issues"
+  },
+  "homepage": "https://github.com/tmg0/gors#readme"
+}
