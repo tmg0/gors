@@ -1,5 +1,2 @@
 [workspace]
-members = [
-    "crates/hello_world",
-    "crates/fibonacci", "crates/collatz",
-]
+members = ["crates/hello_world", "crates/fibonacci", "crates/collatz", "crates/nested_arrays"]
