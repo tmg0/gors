@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/tmg0/gors/issues"
   },
-  "homepage": "https://github.com/tmg0/gors#readme"
+  "homepage": "https://github.com/tmg0/gors#readme",
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.12.1",
+    "@napi-rs/cli": "^2.18.0",
+    "eslint": "^8.57.0",
+    "vitest": "^1.4.0"
+  }
 }
